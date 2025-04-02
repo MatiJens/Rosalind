@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="02_RNA final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p03_REVC.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="03_REVC final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p04_FIB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p02_RNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p02_RNA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.p01_DNA.executor": "Run",
     "Python.p02_RNA.executor": "Run",
     "Python.p03_REVC.executor": "Run",
+    "Python.p04_FIB.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -121,13 +123,22 @@
       <option name="project" value="LOCAL" />
       <updated>1743583101630</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="03_REVC final">
+      <option name="closed" value="true" />
+      <created>1743585013152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743585013152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01_DNA test" />
     <MESSAGE value="01_DNA final" />
     <MESSAGE value="02_RNA final" />
-    <option name="LAST_COMMIT_MESSAGE" value="02_RNA final" />
+    <MESSAGE value="03_REVC final" />
+    <option name="LAST_COMMIT_MESSAGE" value="03_REVC final" />
   </component>
 </project>
