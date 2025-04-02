@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="">
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="01_DNA test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -65,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1743579215422</updated>
     </task>
+    <task id="LOCAL-00001" summary="01_DNA test">
+      <option name="closed" value="true" />
+      <created>1743580286670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743580286670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01_DNA test" />
+    <option name="LAST_COMMIT_MESSAGE" value="01_DNA test" />
   </component>
 </project>
