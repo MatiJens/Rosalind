@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="01_DNA final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p02_RNA.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="02_RNA final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p03_REVC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p01_DNA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p01_DNA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MatiJens"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MatiJens&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MatiJens/Rosalind.git",
-    "accountId": "248ef3ad-99f4-4805-9fcc-5a345df1b13f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MatiJens/Rosalind.git&quot;,
+    &quot;accountId&quot;: &quot;248ef3ad-99f4-4805-9fcc-5a345df1b13f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2vADvZPAp4hxDJ0JQKHNLOyIQ6E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,8 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.p01_DNA.executor": "Run",
+    "Python.p02_RNA.executor": "Run",
+    "Python.p03_REVC.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -103,12 +105,29 @@
       <option name="project" value="LOCAL" />
       <updated>1743582531622</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="02_RNA final">
+      <option name="closed" value="true" />
+      <created>1743583097050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743583097050</updated>
+    </task>
+    <task id="LOCAL-00006" summary="02_RNA final">
+      <option name="closed" value="true" />
+      <created>1743583101630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743583101630</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01_DNA test" />
     <MESSAGE value="01_DNA final" />
-    <option name="LAST_COMMIT_MESSAGE" value="01_DNA final" />
+    <MESSAGE value="02_RNA final" />
+    <option name="LAST_COMMIT_MESSAGE" value="02_RNA final" />
   </component>
 </project>
