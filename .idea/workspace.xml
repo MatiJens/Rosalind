@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="07_IPRB final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p08_PROT.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="08_PROT final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p09_SUBS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p06_HAMM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p06_HAMM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Python.p06_HAMM.executor": "Run",
     "Python.p07_IPRB.executor": "Run",
     "Python.p08_PROT.executor": "Run",
+    "Python.p09_SUBS.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -166,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743688339579</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="07_IPRB final">
+      <option name="closed" value="true" />
+      <created>1743690078390</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743690078390</updated>
+    </task>
+    <task id="LOCAL-00013" summary="08_PROT final">
+      <option name="closed" value="true" />
+      <created>1743690113382</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743690113382</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +196,7 @@
     <MESSAGE value="05_GC final" />
     <MESSAGE value="06_HAMM final" />
     <MESSAGE value="07_IPRB final" />
-    <option name="LAST_COMMIT_MESSAGE" value="07_IPRB final" />
+    <MESSAGE value="08_PROT final" />
+    <option name="LAST_COMMIT_MESSAGE" value="08_PROT final" />
   </component>
 </project>
