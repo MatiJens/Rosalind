@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="06_HAMM final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p07_IPRB.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="07_IPRB final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p08_PROT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.p05_GC.executor": "Run",
     "Python.p06_HAMM.executor": "Run",
     "Python.p07_IPRB.executor": "Run",
+    "Python.p08_PROT.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743686647904</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="07_IPRB final">
+      <option name="closed" value="true" />
+      <created>1743688339579</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743688339579</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +177,7 @@
     <MESSAGE value="04_FIB final" />
     <MESSAGE value="05_GC final" />
     <MESSAGE value="06_HAMM final" />
-    <option name="LAST_COMMIT_MESSAGE" value="06_HAMM final" />
+    <MESSAGE value="07_IPRB final" />
+    <option name="LAST_COMMIT_MESSAGE" value="07_IPRB final" />
   </component>
 </project>
