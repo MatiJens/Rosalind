@@ -39,7 +39,7 @@ with open("txt/rosalind_prot.txt", "r") as f:
                         return protein
                     if j == (len(mRNA) - 3):
                         return "no stop codon"
-            return ("no start codon")
+            return "no start codon"
     print(translation(mRNA))
 
 
