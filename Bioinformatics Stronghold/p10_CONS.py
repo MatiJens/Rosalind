@@ -1,19 +1,22 @@
 with open("txt/rosalind_cons.txt", "r") as f:
-    dnaString = []
+    sequences = []
     consensusString = ""
+    i = -1
 
     for line in f:
-        line = line.strip()
-        if line.startswith(("A","T", "C", "G")):
-            dnaString.append(list(line))
+        if line[0] == '>':
+            i += 1
+            sequences.append([])
+        else:
+            sequences[i] += line.strip()
 
-    profile = [ ["A:"] + [0] * len(dnaString[0]),
-                ["C:"] + [0] * len(dnaString[0]),
-                ["G:"] + [0] * len(dnaString[0]),
-                ["T:"] + [0] * len(dnaString[0])
+    profile = [ ["A:"] + [0] * len(sequences[0]),
+                ["C:"] + [0] * len(sequences[0]),
+                ["G:"] + [0] * len(sequences[0]),
+                ["T:"] + [0] * len(sequences[0])
                 ]
 
-    for row in dnaString:
+    for row in sequences:
         for i, nucleotide in enumerate(row):
             if nucleotide == "A":
                 profile[0][i+1] += 1

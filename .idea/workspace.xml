@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="09_SUBS final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p10_CONS.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="10_CONS final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p10_CONS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p10_CONS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743696157121</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="10_CONS final">
+      <option name="closed" value="true" />
+      <created>1743701118645</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1743701118645</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +214,7 @@
     <MESSAGE value="07_IPRB final" />
     <MESSAGE value="08_PROT final" />
     <MESSAGE value="09_SUBS final" />
-    <option name="LAST_COMMIT_MESSAGE" value="09_SUBS final" />
+    <MESSAGE value="10_CONS final" />
+    <option name="LAST_COMMIT_MESSAGE" value="10_CONS final" />
   </component>
 </project>
