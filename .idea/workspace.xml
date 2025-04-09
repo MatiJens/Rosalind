@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="13_IEV final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p14_LCSM.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="14_LCSM final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p15_LIA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.p12_GRPH.executor": "Run",
     "Python.p13_IEV.executor": "Run",
     "Python.p14_LCSM.executor": "Run",
+    "Python.p15_LIA.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -244,7 +245,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744136079279</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="14_LCSM final">
+      <option name="closed" value="true" />
+      <created>1744141546884</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744141546884</updated>
+    </task>
+    <task id="LOCAL-00022" summary="14_LCSM final">
+      <option name="closed" value="true" />
+      <created>1744141562406</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744141562406</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +279,7 @@
     <MESSAGE value="11_FIBD final" />
     <MESSAGE value="12_GRPH final" />
     <MESSAGE value="13_IEV final" />
-    <option name="LAST_COMMIT_MESSAGE" value="13_IEV final" />
+    <MESSAGE value="14_LCSM final" />
+    <option name="LAST_COMMIT_MESSAGE" value="14_LCSM final" />
   </component>
 </project>
