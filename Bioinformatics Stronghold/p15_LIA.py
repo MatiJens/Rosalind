@@ -8,7 +8,7 @@ with open("txt/rosalind_lia.txt", "r") as f:
         population = pow(2,k)
         prob = 0
         for i in range(N, pow(2,k) + 1):
-            prob += comb(population,i) * pow(0.25,i) * pow(1 - 0.25,population - i) # rozklad dwumianowy
+            prob += comb(population,i) * pow(0.25,i) * pow(1 - 0.25,population - i) # rozklad dwumianowy (bernouliego)
         return prob
 
     result = p15_LIA(k, N)
