@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="14_LCSM final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p15_LIA.py" afterDir="false" />
+    <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="15_LIA final">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p16_MPRT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,8 +261,27 @@
       <option name="project" value="LOCAL" />
       <updated>1744141562406</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="15_LIA final">
+      <option name="closed" value="true" />
+      <created>1744189938369</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744189938369</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01_DNA test" />
@@ -280,6 +299,7 @@
     <MESSAGE value="12_GRPH final" />
     <MESSAGE value="13_IEV final" />
     <MESSAGE value="14_LCSM final" />
-    <option name="LAST_COMMIT_MESSAGE" value="14_LCSM final" />
+    <MESSAGE value="15_LIA final" />
+    <option name="LAST_COMMIT_MESSAGE" value="15_LIA final" />
   </component>
 </project>
