@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="15_LIA final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p15_LIA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p15_LIA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bioinformatics Stronghold/p16_MPRT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p16_MPRT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     "Python.p13_IEV.executor": "Run",
     "Python.p14_LCSM.executor": "Run",
     "Python.p15_LIA.executor": "Run",
+    "Python.p16_MPRT.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
