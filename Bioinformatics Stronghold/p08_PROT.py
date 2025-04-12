@@ -28,7 +28,7 @@ with open("txt/rosalind_prot.txt", "r") as f:
     mRNA = f.read()
     def translation(mRNA):
         protein = ""
-        for i in range(len(mRNA) - 2):
+        for i in range(0, len(mRNA) - 2):
             startCodon = mRNA[i] + mRNA[i + 1] + mRNA[i + 2]
             if startCodon == "AUG":
                 for j in range(i,len(mRNA) - 2, 3):
