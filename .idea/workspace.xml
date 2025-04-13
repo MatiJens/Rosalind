@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63245582-fcbd-40f4-a88c-50fa4d78d7bc" name="Changes" comment="15_LIA final">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p20_PRTM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Stronghold/p21_REVP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.p18_ORF.executor": "Run",
     "Python.p19_PERM.executor": "Run",
     "Python.p20_PRTM.executor": "Run",
+    "Python.p21_REVP.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
